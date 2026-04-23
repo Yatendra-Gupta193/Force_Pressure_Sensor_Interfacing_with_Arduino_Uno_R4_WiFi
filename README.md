@@ -9,7 +9,7 @@ This project demonstrates how to measure force/pressure using a Force Sensitive 
 - Real-time pressure detection
 - Analog data reading using Arduino
 - Simple and efficient circuit design
-- Easy to integrate into IoT applications
+- Easy to integrate into IoT applications 
 - Lightweight and beginner-friendly project
 
 ---
