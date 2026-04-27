@@ -11,3 +11,4 @@ void loop() {
     Serial.println(fsrValue);
     delay(500);
 }
+ 
