@@ -1,5 +1,8 @@
 # 📊 Force Pressure Sensor with Arduino Uno R4 Wi-fi  
 
+![Platform](https://img.shields.io/badge/platform-Arduino-orange)
+![Language](https://img.shields.io/badge/language-C++-blue)
+
 This project demonstrates how to measure force/pressure using a Force Sensitive Resistor (FSR) sensor with Arduino. The sensor detects varying pressure levels and converts them into readable analog values, which are then processed and displayed using serial output.
 
 ---
